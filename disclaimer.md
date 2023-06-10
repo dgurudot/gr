@@ -1,3 +1,4 @@
+
 Produsele şi serviciile descrise în acest site sunt valabile numai pentru S.S.I.F Goldring și sunt proprietatea exclusivă a societății. S.S.I.F Goldring deține toate drepturile de proprietate intelectuală privind mărcile comerciale, logo-urile şi toate celelalte materiale prezentate în acest site.
 
 Este interzisă reproducerea, distribuirea sau publicarea sub orice formă a conținutului materialelor prezentate pe acest site, de către orice persoană, fără acordul scris prealabil al S.S.I.F Goldring.
