@@ -1,10 +1,9 @@
+The products and services described in this site are valid only for S.S.I.F Goldring and are the exclusive property of the company. S.S.I.F Goldring owns all intellectual property rights regarding the trademarks, logos and all other materials presented on this site.
 
-Produsele şi serviciile descrise în acest site sunt valabile numai pentru S.S.I.F Goldring și sunt proprietatea exclusivă a societății. S.S.I.F Goldring deține toate drepturile de proprietate intelectuală privind mărcile comerciale, logo-urile şi toate celelalte materiale prezentate în acest site.
+It is prohibited to reproduce, distribute or publish in any form the content of the materials presented on this site, by any person, without the prior written consent of S.S.I.F Goldring.
 
-Este interzisă reproducerea, distribuirea sau publicarea sub orice formă a conținutului materialelor prezentate pe acest site, de către orice persoană, fără acordul scris prealabil al S.S.I.F Goldring.
+S.S.I.F Goldring makes every effort to ensure that the information on this site is up-to-date and correct, but users should exercise their own skill and judgment before relying on it.
 
-S.S.I.F Goldring depune toate eforturile pentru a se asigura că informațiile de pe acest site sunt actualizate și corecte, însă utilizatorii ar trebui să își exercite propria abilitate și judecată înainte de a se baza pe acestea.
+Thus, S.S.I.F Goldring cannot be legally responsible for any kind of damages, losses or losses caused to the website user caused by erroneous information or actions taken by any person based on the content of this website.
 
-Astfel, S.S.I.F Goldring nu poate fi responsabilă legal pentru niciun fel de daune, pagube sau pierderi produse utilizatorului website-ului cauzate de informații eronate sau de acțiunile întreprinse de orice persoană în baza conținutului acestui website.
-
-Linkurile către alte site-uri sunt introduse în interesul utilizatorului, însă S.S.I.F Goldring nu poate garanta sau controla actualitatea și exactitatea informațiilor prezentate pe acestea.
+Links to other sites are introduced for the benefit of the user, but S.S.I.F Goldring cannot guarantee or control the timeliness and accuracy of the information presented on them.

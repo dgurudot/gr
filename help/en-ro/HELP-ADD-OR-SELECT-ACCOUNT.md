@@ -1,6 +1,6 @@
 # **Add New or Select Account**
 
-- Click on **Add Account** button to add new broker, crypto exchange or data or read-only account (via Plaid)
+- Click on **Add Account** button to add new account
 - **Select any account tile** to change its settings. Click on Settings button from title to update the following settings:
   -  **Delete** : Delete a specific account
   -  **Set Default Account** : Sets specific trade account as default for orders, positions, dashboard.  **One account MUST be set as default.**

@@ -1,7 +1,7 @@
 # **Insights**
 
 Displays account insights as given below:
-  - **Allocation Value:** Bubble chart showing current value of each position in potfolio
+  - **Allocation Value:** Bubble chart showing current value of each position in portfolio
   - **Value %:** Pie chart showing % value of each position in portfolio.
   - **Cost:** Pie chart showing cost allocation to each position in portfolio.
   - **Cost %:** Funnel chart showing top cost allocation % for positions in portfolio.
@@ -29,11 +29,11 @@ Displays account insights as given below:
   - **Hourly Trade Count:** Shows trend for trades at specific hour of day as bar graph.
   - **Hourly Accuracy:** Shows accuracy trend for trades in specific month.
   - **Duration Distribution:** Shows trade hold duration trend across all trades. 
-  - **Duration Accuracy:** Shows accuracy trend for types of trades (Intraday, Swing or Long term).
+  - **Duration Accuracy:** Shows accuracy trend for types of trades (Intra day, Swing or Long term).
   - **Price Distribution:** Shows price range trend for all trades.
   - **Accuracy by Price:** Shows account accuracy trend for price range.
   - **Volume Distribution:** Shows volume distribution trend from trades.
-  - **Accuracy by Volume:** Shows trend for accuravy based on volume.
+  - **Accuracy by Volume:** Shows trend for accuracy based on volume.
   - **Top 10:** Shows top ten trades
   - **Bottom 10:** Shows bottom 10 trades
   - **Earnings:** (Optional) Earnings calendar for positions in portfolio.
