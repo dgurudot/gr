@@ -1,6 +1,6 @@
 # **Orders**
 
-Diplays account orders as given below:
+Displays account orders as given below:
 
 **Active:** Orders that are pending and waiting to be executed.
 
