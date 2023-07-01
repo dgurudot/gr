@@ -15,4 +15,4 @@ Click on the header to sort the specific header.
   - **Commission:** Broker commission
   - **Fee:** Broker or exchange fee
   - **ID (Optional):** Transaction ID
-    **Note**: Transaction ID will be auto-formatted from positions from the last year using <date-symbol>
+    **Note**: Transaction ID will be auto-formatted from positions from the last year using date-symbol
