@@ -29,7 +29,7 @@ Displays account insights as given below:
   - **Hourly Trade Count:** Shows the trend for trades at a specific hour of the day as a bar graph.
   - **Hourly Accuracy:** Shows accuracy trend for trades in a specific month.
   - **Duration Distribution:** Shows trade hold duration trend across all trades. 
-  - **Duration Accuracy:** Shows accuracy trend for types of trades (Intra day, Swing, or Long term).
+  - **Duration Accuracy:** Shows accuracy trend for types of trades (Intraday, Swing, or Long term).
   - **Price Distribution:** Shows price range trend for all trades.
   - **Accuracy by Price:** Shows account accuracy trend for the price range.
   - **Volume Distribution:** Shows volume distribution trend from trades.
