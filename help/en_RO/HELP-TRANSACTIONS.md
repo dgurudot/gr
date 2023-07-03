@@ -1,12 +1,12 @@
 # **Transactions**
 
-Displays transactions for last 60 days by default. 
-Click on settings to reorder and enable/disable specific header.
-Click on header to sort specific header.
+Displays transactions for the last 60 days by default. Only last year's transactions are pulled from the exchange.
+Click on settings to reorder and enable/disable specific headers.
+Click on the header to sort the specific header.
 
 **Transactions (Default):**
   - **Date:** Date of transaction
-  - **Type:** Type of transaction (SELL, BUY, INT (Interest), DIV (Dividend), WID (Withdrawal), DEP (Deposit) or OTHER)
+  - **Type:** Type of transaction [ SELL, BUY, INT (Interest), DIV (Dividend), WID (Withdrawal), DEP (Deposit) or OTHER ]
   - **Symbol:** Name of symbol
   - **Qty:** Total quantity
   - **Cost:** Purchase Price
@@ -15,3 +15,4 @@ Click on header to sort specific header.
   - **Commission:** Broker commission
   - **Fee:** Broker or exchange fee
   - **ID (Optional):** Transaction ID
+    **Note**: Transaction ID will be auto-formatted from positions from the last year using date-symbol
