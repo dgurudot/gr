@@ -14,10 +14,10 @@ Long press on account forces a re-connection to exchange.
   - **Row 2:** Day Gain % (Left), Day Gain (Right)
   - **Row 3:** Gain % (Left), Gain (Right)
 
-**Colors**
-  - Green or Red color on position indicates profit or loss for a specific position.
-  - Grey color on position indicates no profit/loss for a specific position.
-  - Blue dot on the position indicates an active order for a specific position. Long press on position allows a quick jump to a specific order.
+**Colors:**
+  - **Green** or **Red** color on position indicates profit or loss for a specific position.
+  - **Grey** color on the position indicates no profit/loss for a specific position.
+  - **Blue** dot on the position indicates an active order for a specific position. Long press on position allows a quick jump to a specific order.
 
 **Table Mode (Default):**
   - **Symbol:** Name of symbol
@@ -28,10 +28,10 @@ Long press on account forces a re-connection to exchange.
   - **Day Gain %:** Net gain % during day
   - **Gain:** Net gain
   - **Gain %:** Net gain %
-  - **Value (Optional):** Net value based on current price
+  - **Value (Optional):** Net value based on the current price
   - **Cost (Optional):** Net cost based on the cost price
 
-**Account Quick Info**
+**Account Quick Info:**
   Displayed at the bottom of the positions screen
   - **Row 1:** Day Gain %, Day Gain (Day Gain Amount), BP (Buying Power), Value (Optional for the total value of all positions)
   - **Row 2:** Gain %, Gain (Total Gain Amount), EQ (Total Account Equity), Cost (Optional for the total cost of all positions)
