@@ -17,7 +17,7 @@ Displays account stats as given below:
   - **Portfolio Size:** No of positions target in portfolio
   - **Monthly Profit %:** Goal for monthly profit %
   - **Yearly Profit %:** Goal for yearly profit %
-  - **BP Threshold %:** Threshold for buying power. Warning at time of orders.
+  - **BP Threshold %:** Threshold for buying power. Warning at time of order placement.
   - **Cost Threshold:** Threshold for total cost. Warning at time of order placement.
 
 **Monthly (Specific Month):**
