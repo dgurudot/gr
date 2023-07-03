@@ -11,7 +11,7 @@ Displays account stats as given below:
   - **Buying Power:** Current purchasing power for account
 
 **Targets:**
-  - **Investment:** Total investment based on sum total of all deposit transactions. Can be updated.
+  - **Investment:** Total investment based on sum total of all deposit transactions. Can be updated manually.
   - **Monthly Sell:** Expected target sell transactions and goal for the month
   - **Monthly Buy:** Expected target buy transactions and goal for the month
   - **Portfolio Size:** No of positions target in portfolio
