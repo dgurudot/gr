@@ -1,6 +1,5 @@
-## You accept that this is NOT legal, financial or tax advice
-	
-- Any information or use of information from TradeGrub should not be considered legal or financial advice. You should consult with an attorney or other professional to determine what may be best for your individual needs.
-TradeGrub is not intended to be trading or investment advice. Always do your own due diligence using multiple sources of information and/or seek the advice of a licensed professional before trading or investing.
-- This is for information purposes only as TradeGrub LLC nor any of its directors, officers, investors, advisor, or any affiliates are NOT registered as a securities broker-dealer or an investment adviser. No information herein is intended as securities brokerage, investment, tax, accounting or legal advice, as an offer or solicitation of an offer to sell or buy, or as an endorsement, recommendation or sponsorship of any company, security or fund. 
-- The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+## Acceptați că acesta NU este un sfat juridic, financiar sau fiscal
+
+- Orice informație sau utilizare a informațiilor furnizate de Goldring SA pe website sau prin intermediul Aplicației, nu trebuie considerată drept consultanță de investiții, juridică, financiară sau fiscală. 
+- Aplicația nu este menită să ofere consultanță comercială sau de investiții. 
+- Realizați propriile evaluări/cercetări și luați decizii de investiții folosind mai multe surse de informații și/sau solicitați sfatul unui profesionist autorizat, înainte de a tranzacționa sau investi. 

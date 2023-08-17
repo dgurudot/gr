@@ -1,8 +1,6 @@
-## You agree that you are NOT a securities professional
+## Goldring SA își declină în mod expres orice răspundere
 
-You're a securities professional if any of the following apply to you:
-- Registered or qualified with the Securities and Exchange Commission (the "SEC"), the Commodities Futures Trading Commission, any state securities agency, any securities exchange or association, or any commodities or futures contract market or association; AND/OR
-- Engaged as an "investment advisor" as that term is defined in Section 202 (a) (11) of the Investment Advisor's Act of 1940 (whether or not registered or qualified under that Act); AND/OR
-- Employed by a bank or other organization exempt from registration under Federal and/or state securities laws to perform functions that would require him or her to be so registered or qualified if he or she were to perform such functions for an organization not so exempt; AND/OR
-- Using quote information in connection with any trade or business activity instead of your own personal investments
-- Holds Series 7 or Series 63 license
+- Având în vedere numărul ridicat de surse din care este obținut conținutul datelor din Platforma de tranzacționare (Aplicația) și pericolele inerente ale distribuției electronice, informațiile sunt furnizate utilizatorilor "AS IS", fără garanții de niciun fel, iar Goldring nu face nicio declarație cu privire la caracterul adecvat, complet sau precis al informațiilor conținute în Aplicație, chiar dacă acestea sunt considerate a fi adevărate, în baza cunoștințelor noastre, folosind surse de încredere.
+- Goldring SA își declină în mod expres orice răspundere directă sau pentru angajații și colaboratorii săi (fie că este vorba de răspundere materială, civilă, delictuală, contractuală sau de altă natură), răspundere rezultată ca urmare a utilizării Aplicației sau a oricărei părți din conținutului Aplicației. 
+- Se recomandă ca utilizatorii să solicite sfatul specialiștilor, după caz, în ceea ce privește evaluarea oricărui titlu, indice, raport, opinie, sfat sau alt conținut specific.
+- Utilizatorii nu au voie să copieze, să stocheze, să transmită, să transfere, să execute, să difuzeze, să publice, să reproducă, să creeze o aplicație derivată, să afișeze, să distribuie, să vândă, să acorde licențe, să închirieze, să dea în leasing sau să transfere în alt mod Aplicația sau date din conținutul acesteia către o terță persoană (inclusiv, fără a se limita la, alte persoane din compania sau organizația lor), fără permisiunea prealabilă scrisă a Goldring.
