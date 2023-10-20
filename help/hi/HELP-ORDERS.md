@@ -8,4 +8,5 @@ Displays account orders as given below:
 
 **Canceled:** Orders that were canceled or rejected or error.
 
-**Note**: A left or right swipe on a specific order allows you to cancel a specific order or create a similar order.
+**Note**: A left swipe on a specific active order allows you to cancel a specific order 
+A right swipe on specific active order allows you to create a similar order or modify order.

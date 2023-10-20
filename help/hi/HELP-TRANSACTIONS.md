@@ -13,6 +13,6 @@ Click on the header to sort the specific header.
   - **Total Cost:** Total purchase price
   - **Time:** Time of transaction
   - **Commission:** Broker commission
-  - **Fee:** Broker or exchange fee
+  - **Fee:** Broker or exchange fee or taxes
   - **ID (Optional):** Transaction ID
     **Note**: Transaction ID will be auto-formatted from positions from the last year using date-symbol
