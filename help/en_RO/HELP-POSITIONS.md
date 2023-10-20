@@ -1,30 +1,30 @@
-# **Positions**
+# **Posturi**
 
-Displays current portfolio in **grid mode (default)** or **table mode**. 
-You can change the mode and enable/disable using the blue button on the bottom right of the screen.
-Click on settings from the top left to reorder and enable/disable specific headers.
+Afișează portofoliul curent în **modul grilă (implicit)** sau **modul tabel**.
+Puteți schimba modul și activa/dezactiva modul cu ajutorul butonului albastru din dreapta jos a ecranului.
+Faceți clic pe settings (Setări) din stânga sus pentru a reordona și a activa/dezactiva anumite anteturi.
 
-You can select a specific account from the top left drop-down.
-You can also view the status of your account connection (green - connected, red - disconnected).
-Long press on account forces a re-connection to exchange.
+Puteți selecta un cont specific din meniul derulant din stânga sus.
+De asemenea, puteți vizualiza starea conexiunii contului (verde - conectat, roșu - deconectat).
+Apăsarea lungă pe cont forțează o reconectare la schimb.
 
-**Grid Mode (Default):**
-  - **Header:** Symbol (Left), Quantity (Right)
-  - **Row 1:** Order Indicator (Left), Mark Price (Right)
-  - **Row 2:** Day Gain % (Left), Day Gain (Right)
-  - **Row 3:** Gain % (Left), Gain (Right)
+**Modul Grid (implicit):**
+- **Header:** Simbol (stânga), Cantitate (dreapta)
+- **Rândul 1:** Indicator de ordine (stânga), Preț de marcaj (dreapta)
+- **Rândul 2:** Day Gain % (Stânga), Day Gain (Dreapta)
+- **Rândul 3:** Gain % (Stânga), Gain (Dreapta)
 
-**Table Mode (Default):**
-  - **Symbol:** Name of symbol
-  - **Mark:** Current price of symbol
-  - **Cost:** Purchase price (or current avg)
-  - **Qty:** Total quantity
-  - **Day Gain:** Net gain amount during day
-  - **Day Gain %:** Net gain % during day
-  - **Gain:** Net gain
-  - **Gain %:** Net gain %
-  - **Value (Optional):** Net value based on the current price
-  - **Cost (Optional):** Net cost based on the cost price
+**Table Mode (implicit):**
+- **Symbol:** Numele simbolului
+- **Mark:** Prețul curent al simbolului
+- **Cost:** Prețul de achiziție (sau prețul mediu actual)
+- **Qty:** Cantitate totală
+- **Day Gain:** Valoarea netă a câștigului în timpul zilei
+- **Day Gain %:** Câștig net % în timpul zilei
+- **Gain:** Câștig net
+- **Gain %:** Câștig net %
+- **Valoare (opțional):** Valoarea netă bazată pe prețul curent
+- **Cost (Opțional):** Costul net bazat pe prețul de cost
 
 **Account Quick Info:**
   Displayed at the bottom of the positions screen
@@ -35,3 +35,13 @@ Long press on account forces a re-connection to exchange.
   - **Green** or **Red** color on position indicates profit or loss for a specific position.
   - **Grey** color on the position indicates no profit/loss for a specific position.
   - **Blue** dot on the position indicates an active order for a specific position. Long press on position allows a quick jump to a specific order.
+
+**Informații rapide despre cont:**
+Afișate în partea de jos a ecranului de poziții
+- **Rândul 1:** Day Gain %, Day Gain (Day Gain Amount), BP (Buying Power), Value (Opțional pentru valoarea totală a tuturor pozițiilor)
+- **Rândul 2:** Gain %, Gain (Total Gain Amount), EQ (Total Account Equity), Cost (Opțional pentru costul total al tuturor pozițiilor)
+
+**Culoare:**
+- **Culoarea **Verde** sau **Roșu** pe poziție indică profitul sau pierderea pentru o anumită poziție.
+- **Culoarea gri** pe poziție indică lipsa profitului/pierderii pentru o anumită poziție.
+- **Punctul albastru** pe poziție indică un ordin activ pentru o anumită poziție. Apăsarea lungă pe poziție permite o trecere rapidă la un anumit ordin.

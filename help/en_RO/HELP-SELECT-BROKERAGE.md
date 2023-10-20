@@ -1,4 +1,4 @@
 # **Select Account Type**
- 
-- Select your specific stock account and add a new account based on specific instructions for the account. 
-- Broker capabilities are listed on the account type selection tile.
+
+- Selectați contul dvs. de acțiuni specific și adăugați un cont nou pe baza instrucțiunilor specifice pentru cont.
+- Capacitățile brokerului sunt enumerate pe panoul de selectare a tipului de cont.

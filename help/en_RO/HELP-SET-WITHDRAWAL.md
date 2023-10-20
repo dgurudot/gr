@@ -1,4 +1,4 @@
 # **Set Withdrawals**
 
-- **Step 1:** Add amount in "Value" field
-- **Step 2:** Select specific withdrawal date in "Date" field and click on "Create" button
+- **Pasul 1:** Adăugați suma în câmpul "Valoare"
+- **Pasul 2:** Selectați o anumită dată de retragere în câmpul "Data" și faceți clic pe butonul "Creare".

@@ -1,14 +1,14 @@
-# **Performance**
+# **Performanță**
 
-Displays account performance as given below:
-  - **Portfolio:** Total no of positions in the portfolio
-  - **Buying Power:** Total buying power for account
-  - **Month Buy:** Total no of buy transactions in a specific month
-  - **Month Sell:** Total no of sell transactions in a specific month
-  - **Month Interest:** Interest on your account for a specific month
-  - **Month Dividend:** Total dividend received during a specific month
-  - **Month Profit:** Total profit for specific month
-  - **Month Net Profit:** Total profit + Dividend - Interest
-  - **YTD Net Buy:** Year-to-date net buy transaction count
-  - **YTD Net Sell:** Year-to-date net sell transaction count
-  - **YTD Net Profit:** Year to date net profit
+Afișează performanța contului, după cum se arată mai jos:
+- **Portfoliu:** Numărul total de poziții din portofoliu
+- **Putere de cumpărare:** Puterea totală de cumpărare pentru cont
+- **Month Buy:** Numărul total de tranzacții de cumpărare într-o anumită lună
+- **Month Sell:** Numărul total de tranzacții de vânzare într-o anumită lună
+- Dobânda lunară: ** Dobânda contului dvs. pentru o anumită lună
+- **Month Dividend:** Totalul dividendelor primite într-o anumită lună
+- **Month Profit:** Profitul total pentru o anumită lună
+- **Profit net lunar:** Profit total + Dividende - Dobânda
+- **YTD Net Buy:** Numărul de tranzacții de cumpărare netă de la începutul anului până în prezent
+- **YTD Net Sell:** Numărul de tranzacții nete de vânzare de la începutul anului până în prezent
+- **YTD Net Profit:** Profit net de la începutul anului până în prezent

@@ -1,18 +1,18 @@
-# **Transactions**
+# Tranzacții.
 
-Displays transactions for the last 60 days by default. Only last year's transactions are pulled from the exchange.
-Click on settings to reorder and enable/disable specific headers.
-Click on the header to sort the specific header.
+Afișează în mod implicit tranzacțiile din ultimele 60 de zile. Numai tranzacțiile din ultimul an sunt extrase din bursă.
+Faceți clic pe setări pentru a reordona și a activa/dezactiva anumite antete specifice.
+Faceți clic pe antet pentru a sorta antetul specific.
 
-**Transactions (Default):**
-  - **Date:** Date of transaction
-  - **Type:** Type of transaction [ SELL, BUY, INT (Interest), DIV (Dividend), WID (Withdrawal), DEP (Deposit) or OTHER ]
-  - **Symbol:** Name of symbol
-  - **Qty:** Total quantity
-  - **Cost:** Purchase Price
-  - **Total Cost:** Total purchase price
-  - **Time:** Time of transaction
-  - **Commission:** Broker commission
-  - **Fee:** Broker or exchange fee or taxes
-  - **ID (Optional):** Transaction ID
-    **Note**: Transaction ID will be auto-formatted from positions from the last year using date-symbol
+**Transactions (implicit):**
+- **Date:** Data tranzacției
+- **Type:** Tipul tranzacției [ SELL (VÂNZARE), BUY (CUMPĂRARE), INT (dobândă), DIV (dividend), WID (retragere), DEP (depozit) sau OTHER (ALTE) ].
+- **Simbol:** Denumirea simbolului
+- **Qty:** Cantitatea totală
+- **Cost:** Prețul de achiziție
+- **Cost total:** Prețul total de achiziție
+- **Time:** Ora tranzacției
+- **Commission:** Comisionul brokerului
+- **Fee:** Comisionul de brokeraj sau de schimb sau taxe
+- **ID (opțional):** ID-ul tranzacției
+  **Nota**: ID-ul tranzacției va fi formatat automat pe baza pozițiilor din ultimul an, utilizând data-simbol.

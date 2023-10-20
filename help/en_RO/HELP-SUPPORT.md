@@ -1,19 +1,13 @@
-# **Support**
+# **Suport**
 
-- **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
-- **Feedback:** Share your feedback openly along with suggestions to improve trading experience.
-- **Status:** Check service status and subscribe to twitter for notifications.
-- **Rate:** Rate your trading experience on App/Play Stores.
-- **Share:** Share trading application with friends and family.
-- **Disclaimer:** Read about disclaimers for trading platform.
-- **Privacy:** Read about privacy for trading platform.
-- **Terms of Use:** Read about terms of use for trading platform.
-- **Social Media:** Click on specific social media icons to connect with us via your favorite social media channels.
+- **Întrebări și solicitări:** Găsiți răspunsuri la întrebările frecvente 24x7. Contactați asistența prin chat live sau deschideți cazuri de asistență.
+- **Feedback:** Împărtășiți în mod deschis feedback-ul dvs. împreună cu sugestii pentru a îmbunătăți experiența de tranzacționare.
+- **Status:** Verificați starea serviciului și abonați-vă la twitter pentru notificări.
+- **Rate:** Evaluați-vă experiența de tranzacționare pe App/Play Stores.
+- **Share:** Împărtășiți aplicația de tranzacționare cu prietenii și familia.
+- **Disclaimer:** Citiți despre disclaimer-urile pentru platforma de tranzacționare.
+- **Privacy:** Citiți despre confidențialitatea pentru platforma de tranzacționare.
+- **Termeni de utilizare:** Citiți despre termenii de utilizare pentru platforma de tranzacționare.
+- **Social Media:** Faceți clic pe pictogramele specifice de social media pentru a vă conecta cu noi prin intermediul canalelor dvs. preferate de social media.
 
-- **Note:** Use the top right support tools button only with instructions from customer support team.
-
-
-
-
-
-
+- **Nota:** Folosiți butonul din dreapta sus al instrumentelor de asistență numai cu instrucțiuni din partea echipei de asistență pentru clienți.

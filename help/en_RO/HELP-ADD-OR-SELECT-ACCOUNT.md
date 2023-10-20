@@ -1,11 +1,11 @@
-# **Add New or Select Account**
+# **Adaugați un cont nou sau selectați un cont**
 
-- Click on **Add Account** button to add new account
-- **Select any account tile** to change its settings. Click on the Settings button from the title to update the following settings:
-  - **Remove** : Remove a specific account
-  - **Reset Password**: Reset selected account password.
-  - **Reset Pin**: Reset select account pin.
-  - **Set Default Account**: Sets specific trade account as default for orders, positions, and dashboard.  **One account MUST be set as default.**
-  - **Set Name**: Allows to set a name for an account. Max length: 6
-  - **Toggle Read Only**: Disables ability to place orders on a specific account
-  - **Top Up**: Top up your existing selected account.
+- Faceți clic pe butonul **Add Account** pentru a adăuga un cont nou.
+- **Selectați orice cont** pentru a modifica setările acestuia. Faceți clic pe butonul Settings (Setări) din titlu pentru a actualiza următoarele setări:
+  - **Remover** : Eliminați un anumit cont
+  - **Reset Password** (Resetare parolă): Resetați parola contului selectat.
+  - **Reset Pin**: Resetați codul PIN al contului selectat.
+  - **Set Default Account**: Stabilește contul de tranzacționare specific ca fiind implicit pentru ordine, poziții și tabloul de bord.  **Un singur cont TREBUIE să fie setat ca implicit.**
+  - **Set Name**: Permite setarea unui nume pentru un cont. Lungime maximă: 6
+  - **Toggle Read Only**: Dezactive posibilitatea de a plasa ordine pe un anumit cont.
+  - **Top Up**: Încarcă contul selectat existent.

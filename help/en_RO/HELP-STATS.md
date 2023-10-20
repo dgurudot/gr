@@ -1,41 +1,39 @@
 # **Stats**
 
-Displays account stats as given below:
+Afișează statisticile contului, așa cum sunt prezentate mai jos:
 
-**Account Info:**
-  - **Type:** Cash or Margin Account
-  - **ID:** Account ID (only the last four characters are shown)
-  - **Equity:** Total value of account
-  - **Margin Used:** Current used margin
-  - **Margin Balances:** Current balance of margin
-  - **Buying Power:** Current purchasing power for account
+**Informații despre cont:**
+- Tip:** Cont de numerar sau cont de marjă
+- ID:** ID-ul contului (sunt afișate doar ultimele patru caractere)
+- **Equity:** Valoarea totală a contului
+- Marjă utilizată: ** Marja utilizată în prezent
+- **Margin Balances:** Soldul curent al marjei
+- **Buying Power:** Puterea de cumpărare curentă pentru cont
 
-**Targets:**
-  - **Investment:** Total investment based on sum total of all deposit transactions. Can be updated manually.
-  - **Monthly Sell:** Expected target sell transactions and goal for the month
-  - **Monthly Buy:** Expected target buy transactions and goal for the month
-  - **Portfolio Size:** No of positions target in portfolio
-  - **Monthly Profit %:** Goal for monthly profit %
-  - **Yearly Profit %:** Goal for yearly profit %
-  - **BP Threshold %:** Threshold for buying power. Warning at time of order placement.
-  - **Cost Threshold:** Threshold for total cost. Warning at time of order placement.
+**Obiective:**
+- **Investiție:** Investiție totală bazată pe suma totală a tuturor tranzacțiilor de depozit. Poate fi actualizat manual.
+- **Vânzări lunare:** Tranzacțiile de vânzare țintă și obiectivul preconizat pentru luna respectivă
+- **Monthly Buy (Cumpărare lunară):** Obiectivul de cumpărare preconizat și obiectivul pentru luna respectivă.
+- **Dimensiunea portofoliului:** Numărul de poziții vizate în portofoliu
+- **Monthly Profit %:** Obiectivul pentru profitul lunar %
+- **Yearly Profit %:** Obiectivul pentru profitul anual %.
+- **BP Threshold %:** Pragul pentru puterea de cumpărare. Avertisment în momentul plasării ordinului.
+- **Cost Threshold:** Prag pentru costul total. Avertisment în momentul plasării comenzii.
 
-**Monthly (Specific Month):**
-  - **Num Buys:** Number of buy transactions in a specific month
-  - **Num Sell:** Number of sell transactions in a specific month
-  - **Profit:** Total profit for the month
-  - **Interest:** Interest paid for the month
-  - **Dividend:** Dividend received for the month
-  - **Net Profit:** Total Profit + Dividend - Interest
+**Lunar (lună specifică):**
+- **Num Buys:** Numărul de tranzacții de cumpărare într-o anumită lună.
+- **Num Sell:** Numărul de tranzacții de vânzare într-o anumită lună.
+- **Profit:** Profitul total pentru luna respectivă.
+- **Interest:** Dobânda plătită pentru luna respectivă
+- **Dividend: ** Dividendele primite pentru luna respectivă
+- **Profit net:** Profit total + Dividende - Dobânzi
 
-**Monthly Statistics:**
-  Provides detailed information on all transactions for a specific month
-  
-**Profit Summary (Specific Year):**
-  Provides profit percentage and total profits for each month of the year
-  
-**Totals:**
-  Provides detailed information on specific accounts since the beginning.
-  Kindly note that this information is based on the net history available for the account (5 years default).
-  
+**Statistici lunare:**
+Oferă informații detaliate despre toate tranzacțiile pentru o anumită lună
 
+**Rezumat al profitului (an specific):**
+Oferă procentul de profit și profiturile totale pentru fiecare lună a anului
+
+**Totale:**
+Oferă informații detaliate despre conturi specifice de la început.
+Vă rugăm să rețineți că aceste informații se bazează pe istoricul net disponibil pentru cont (implicit 5 ani).
