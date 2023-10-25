@@ -6,5 +6,4 @@
   - Toate conturile legate pentru utilizator vor fi adăugate automat.
   - Dați clic pe "Forgot Password ?" dacă ați uitat parola contului existent.
 
-
 - **Note:** Pentru orice ajutor la adăugarea contului goldring, faceți clic pe "?" din dreapta sus pentru asistență.
