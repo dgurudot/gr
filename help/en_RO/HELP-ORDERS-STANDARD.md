@@ -12,3 +12,5 @@ Puteți, de asemenea, să actualizați formularul de comandă, după cum se arat
 Alternativ, puteți tasta manual prețul de cumpărare, de vânzare sau de oprire într-o casetă de text specifică pentru preț.
 
 Ordinele de cumpărare și de vânzare pot fi ordine la limită sau ordine de piață și pot fi selectate din lista derulantă. De asemenea, puteți selecta TIF din DAY, GTC.
+
+**Notă:** Apăsați „Enter” pe cantitate pentru ca totalul comenzii să fie actualizat.
