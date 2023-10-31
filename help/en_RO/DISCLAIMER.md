@@ -1,36 +1,37 @@
-## Goldring SA își declină în mod expres orice răspundere
+## Goldring SA își declină în mod expres orice și orice responsabilitate
 
-- Având în vedere numărul ridicat de surse din care este obținut conținutul datelor din Platforma de tranzacționare (Aplicația) și pericolele inerente ale distribuției electronice, informațiile sunt furnizate utilizatorilor "AS IS", fără garanții de niciun fel, iar Goldring nu face nicio declarație cu privire la caracterul adecvat, complet sau precis al informațiilor conținute în Aplicație, chiar dacă acestea sunt considerate a fi adevărate, în baza cunoștințelor noastre, folosind surse de încredere.
-- Goldring SA își declină în mod expres orice răspundere directă sau pentru angajații și colaboratorii săi (fie că este vorba de răspundere materială, civilă, delictuală, contractuală sau de altă natură), răspundere rezultată ca urmare a utilizării Aplicației sau a oricărei părți din conținutului Aplicației.
-- Se recomandă ca utilizatorii să solicite sfatul specialiștilor, după caz, în ceea ce privește evaluarea oricărui titlu, indice, raport, opinie, sfat sau alt conținut specific.
-- Utilizatorii nu au voie să copieze, să stocheze, să transmită, să transfere, să execute, să difuzeze, să publice, să reproducă, să creeze o aplicație derivată, să afișeze, să distribuie, să vândă, să acorde licențe, să închirieze, să dea în leasing sau să transfere în alt mod Aplicația sau date din conținutul acesteia către o terță persoană (inclusiv, fără a se limita la, alte persoane din compania sau organizația lor), fără permisiunea prealabilă scrisă a Goldring.
+- Având în vedere varietatea mare de surse din care este obținut conținutul de date al Platformei de Tranzacționare (denumită "Aplicația") și pericolele inerente ale distribuției electronice, informațiile sunt furnizate utilizatorilor "AS IS", fără garanții de niciun fel, iar Goldring nu face nicio declarație cu privire la adecvarea, caracterul complet sau acuratețea informațiilor conținute în Aplicație, chiar dacă sunt considerate a fi adevărate, după cunoștințele noastre, folosind surse de încredere.
+- Goldring SA își declină în mod expres orice răspundere directă sau pentru angajații și colaboratorii săi (fie că este vorba de răspundere materială, civilă, penală, contractuală sau de altă natură) care rezultă din utilizarea Aplicației sau a oricărei părți din conținutul acesteia.
+- Utilizatorii sunt sfătuiți să solicite consultanță profesională, după caz, pentru a evalua orice titlu, indice, raport, opinie, sfat sau alt conținut specific.
+- Utilizatorii nu au voie să copieze, stocheze, transmită, transfere, execute, difuzeze, publice, reproducă, creeze o aplicație derivată, afișeze, distribuie, vândă, licențieze, închirieze, leasing sau să transfere în alt mod Aplicația sau datele conținute de aceasta către o terță parte (inclusiv, dar fără a se limita la, alte persoane din compania sau organizația lor) fără permisiunea scrisă prealabilă a Goldring.
 
-## Acceptați riscurile implicate de tranzacționarea acțiunilor
+## Acceptați riscurile pe care le implică tranzacționarea acțiunilor
 
-- Tranzacționarea pe piețele financiare poate oferi recompense financiare semnificative dar implică și riscuri; pentru a investi în instrumente financiare, trebuie să cunoașteți, să înțelegeți riscurile asociate acestor tipuri de investiții și să fiți dispus să le acceptați.
+- Tranzacționarea pe piețele financiare poate oferi recompense financiare semnificative, dar implică și riscuri; pentru a investi în instrumente financiare, trebuie să cunoașteți și să înțelegeți riscurile asociate cu aceste tipuri de investiții și să fiți dispus să le acceptați.
 - Nu tranzacționați cu bani pe care nu vă puteți permite să îi pierdeți.
-- Performanța trecută a oricărui sistem de tranzacționare, metodologie, strategie sau rezultate nu sunt o garanție a rezultatelor viitoare.
+- Performanțele anterioare ale oricărui sistem de tranzacționare, metodologie, strategie sau rezultate nu reprezintă o garanție a rezultatelor viitoare.
 
-## Acceptați că acesta NU este un sfat juridic, financiar sau fiscal
+## Acceptați că aceasta NU este o consiliere juridică, financiară sau fiscală
 
-- Orice informație sau utilizare a informațiilor furnizate de Goldring SA pe website sau prin intermediul Aplicației, nu trebuie considerată drept consultanță de investiții, juridică, financiară sau fiscală.
+- Orice informație sau utilizare a informațiilor furnizate de Goldring SA pe Site sau prin intermediul Aplicației nu trebuie să fie considerată ca fiind un sfat de investiții, juridic, financiar sau fiscal.
 - Aplicația nu este menită să ofere consultanță comercială sau de investiții.
-- Realizați propriile evaluări/cercetări și luați decizii de investiții folosind mai multe surse de informații și/sau solicitați sfatul unui profesionist autorizat, înainte de a tranzacționa sau investi.
+- Faceți propriile evaluări/cercetări și decizii de investiții folosind mai multe surse de informații și/sau solicitați sfatul unui profesionist autorizat înainte de a tranzacționa sau investi. 
 
-## Acceptați că Goldring SA nu are nicio răspundere din pierderile dvs. de tranzacționare cu acțiuni
+## Acceptați faptul că Goldring SA nu are nicio răspundere din pierderile dvs. din tranzacționarea acțiunilor
 
-- Utilizarea și gestionarea parolelor în cadrul aplicației sunt subiecte de responsabilitate exclusivă a utilizatorului.
-- Furnizarea sau partajarea parolelor cu alte persoane se efectuează sub propria răspundere a utilizatorului, iar orice consecințe rezultate din aceasta vor fi suportate de către acesta.
-- Utilizatorul aplicației este, de asemenea, responsabil pentru stabilirea, păstrarea, și notarea adecvată a parolelor utilizate pentru accesul la aplicație, într-un mod sigur și securizat, conform propriilor preferințe.
-- Introducerea datelor personale, a informațiilor legate de conturile bancare sau a datelor de autentificare în aplicație, prin intermediul linkurilor care nu sunt furnizate direct de către Goldring SA, se efectuează pe propria răspundere a utilizatorului.
-- Orice acțiune de acest gen nu implică nicio responsabilitate din partea Goldring SA pentru eventualele pierderi sau daune suferite de către utilizator.
+- Utilizarea și gestionarea parolelor în cadrul aplicației sunt responsabilitatea exclusivă a utilizatorului.
+- Furnizarea sau partajarea parolelor cu alte persoane se face pe riscul propriu al utilizatorului și orice consecințe rezultate vor fi pe cheltuiala utilizatorului.
+- Utilizatorul aplicației este, de asemenea, responsabil pentru stabilirea, menținerea și stocarea corespunzătoare a parolelor utilizate pentru a accesa aplicația într-un mod sigur și securizat, în conformitate cu propriile preferințe.
+- Introducerea datelor personale, a informațiilor despre contul bancar sau a datelor de conectare în aplicație prin intermediul unor link-uri care nu sunt furnizate direct de Goldring SA se face pe propriul risc al utilizatorului.
+- Orice astfel de acțiune nu implică nicio răspundere din partea Goldring SA pentru orice pierdere sau prejudiciu suferit de utilizator.
 - Este esențial ca utilizatorul să acorde o atenție deosebită validității surselor și autenticității linkurilor pentru a evita orice posibilă expunere la riscuri de securitate sau pierderi financiare.
 
-## Acceptați că informațiile furnizate de Goldring SA sunt pentru uz personal și necomercial pentru o singură persoană
+## Sunteți de acord că informațiile furnizate de Goldring SA sunt destinate exclusiv utilizării personale și necomerciale de către o singură persoană
 
-- Conținutul materialelor educaționale și al rapoartelor din Aplicație, realizate în numele Goldring SA, au scop informativ și nu vor fi considerate recomandari de investiții sau oferte de a cumpăra, a vinde sau a schimba instrumente financiare (consultanță în investiții cu privire la instrumentele financiare la care fac referire materialele), în conformitate cu legile pieței de capital din România sau cu cele ale altor state.
-- Societatea, afiliații sau angajații acesteia este posibil să dețină în nume propriu produse prezentate în materiale educaționale, analize sau rapoarte prezentate în Aplicație, să efectueze tranzacții cu astfel de instrumente financiare sau chiar să fi prestat servicii de consultanță pentru emitenți prezentați în acest material.
-- Investitorii sunt anunțați că orice strategie, grafic, metodologie sau model sunt mai degrabă forme de estimare și nu pot garanta un profit cert.
-- Investiția în instrumente financiare este caracterizată prin riscuri, inclusiv riscul unor pierderi pentru investitori.
-- Analizele, comentariile si opiniile exprimate prin intermediul rapoartelor de analiză, reprezintă punctul de vedere al autorilor acestora și nu implică în niciun fel răspunderea Goldring SA.
-- Preluarea și publicarea informațiilor din rapoarte nu este permisă decât cu acordul scris al Goldring SA. Alte avantaje și riscuri implicate de tranzacționarea instrumentelor financiare, sunt detaliate în Documentul de prezentare al Goldring SA, disponibil pe pagina de internet www.goldring.ro, la secțiunea "Rapoarte și informații legale". 
+- Conținutul materialelor educaționale și al rapoartelor din Aplicație, realizate în numele Goldring SA, au doar un scop informativ și nu vor fi considerate recomandări de investiții sau oferte de cumpărare, vânzare sau schimb de instrumente financiare (consultanță de investiții cu privire la instrumentele financiare la care se face referire în materiale) în conformitate cu legislația pieței de capital din România sau din alte țări.
+- Societatea, afiliații săi sau angajații săi pot deține, în nume propriu, produsele prezentate în materialele educaționale, analizele sau rapoartele prezentate în Aplicație, pot fi efectuat tranzacții cu astfel de instrumente financiare sau pot chiar să fi oferit servicii de consultanță emitenților prezentați în acest material.
+- Investitorii sunt avertizați că orice strategii, grafice, metodologii sau modele sunt susceptibile de a fi estimări și nu pot garanta un anumit randament.
+- Investițiile în instrumente financiare se caracterizează prin riscuri, inclusiv riscul de pierdere pentru investitori.
+- Analizele, comentariile și opiniile exprimate prin intermediul rapoartelor de analiză reprezintă punctele de vedere ale autorilor acestora și nu implică în niciun fel responsabilitatea Goldring SA.
+- Reproducerea și publicarea informațiilor din rapoarte este permisă numai cu acordul scris al Goldring SA.
+- Alte avantaje și riscuri implicate de tranzacționarea instrumentelor financiare sunt detaliate în Documentul de prezentare al Goldring SA, disponibil pe site-ul www.goldring.ro, la secțiunea "Rapoarte și informații legale". 
