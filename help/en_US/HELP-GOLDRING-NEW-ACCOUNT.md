@@ -1,5 +1,5 @@
 # **Instructions for adding Goldring Account**
-- **Step 1:** Add your existing Goldring account username and password. 
+- **Step 1:** Add your existing Goldring account username and password. Add TOTP (Optional) if two factor authentication is enabled.
   - You must have an existing Goldring account. If you don't have Goldring account, then click on "Sign Up" at bottom of screen.
   - Enable "Demo" checkbox for demo/test/paper account.
 - **Step 2:** Click on "Sign In" button to authenticate and sign-in to existing goldring account for add.

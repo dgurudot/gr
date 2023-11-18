@@ -8,4 +8,3 @@
   - **Setează Contul Implicit**: Stabilește contul de tranzacționare specific ca fiind implicit pentru ordine, poziții și tabloul de bord. De asemenea, puteți apăsa lung pe tigla cont pentru a seta ca implicit. **Un singur cont TREBUIE să fie setat ca implicit.**
   - **Setează denumire**: Permite setarea unui nume pentru un cont. Lungime maximă: 6
   - **Comutator numai pentru citire**: Dezactivează posibilitatea de a plasa ordine pe un anumit cont.
-  - **Top Up**: Încarcă contul selectat existent.
