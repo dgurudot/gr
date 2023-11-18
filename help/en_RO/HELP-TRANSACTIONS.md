@@ -4,9 +4,9 @@ Afișează în mod implicit tranzacțiile din ultimele 60 de zile. Numai tranzac
 Faceți clic pe setări pentru a reordona și a activa/dezactiva anumite antete specifice.
 Faceți clic pe antet pentru a sorta antetul specific.
 
-** Tranzacții (implicit):**
+**Tranzacții (implicit):**
   - **Data:** Data tranzacției
-  - ** Tipul:** Tipul tranzacției [ SELL (VÂNZARE), BUY (CUMPĂRARE), INT (dobândă), DIV (dividend), WID (retragere), DEP (depozit) sau OTHER (ALTE) ].
+  - **Tipul:** Tipul tranzacției [ SELL (VÂNZARE), BUY (CUMPĂRARE), INT (dobândă), DIV (dividend), WID (retragere), DEP (depozit) sau OTHER (ALTE) ].
   - **Simbol:** Denumirea simbolului
   - **Qty:** Cantitatea totală
   - **Cost:** Prețul de achiziție

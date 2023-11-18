@@ -3,11 +3,11 @@
 Afișează statisticile contului, așa cum sunt prezentate mai jos:
 
 **Informații despre cont:**
-  - Tipul:** Cont de numerar sau cont de marjă
-  - ID:** ID-ul contului (sunt afișate doar ultimele patru caractere)
-- **Capital:** Valoarea totală a contului
-  - Marjă utilizată: ** Marja utilizată în prezent
-- **Balanțe Marginale: ** Soldul curent al marjei
+  - **Tipul:** Cont de numerar sau cont de marjă
+  - **ID:** ID-ul contului (sunt afișate doar ultimele patru caractere)
+  - **Capital:** Valoarea totală a contului
+  - **Marjă utilizată:** Marja utilizată în prezent
+  - **Balanțe Marginale:** Soldul curent al marjei
   - **Disponibil Efectiv:** Disponibilul efectiv pentru tranzacționare din cont
 
 **Obiective:**
@@ -25,7 +25,7 @@ Afișează statisticile contului, așa cum sunt prezentate mai jos:
   - **Nr. Vânzări:** Numărul de tranzacții de vânzare într-o anumită lună.
   - **Profit:** Profitul total pentru luna respectivă.
   - **Dobândă:** Dobânda plătită pentru luna respectivă
-  - **Dividend: ** Dividendele primite pentru luna respectivă
+  - **Dividend:** Dividendele primite pentru luna respectivă
   - **Profit net:** Profit total + Dividende - Dobânzi
 
 **Statistici lunare:**

@@ -32,6 +32,6 @@ Apăsarea lungă pe cont forțează o reconectare la bursă.
   - **Rândul 2:** P/L %, P/L, EQ (Total Account Equity), Cost (Opțional pentru costul total al tuturor pozițiilor)
 
 **Culoare:**
-  - **Culoarea **Verde** sau **Roșu** pe poziție indică profitul sau pierderea pentru o anumită poziție.
+  - **Culoarea Verde** sau **Roșu** pe poziție indică profitul sau pierderea pentru o anumită poziție.
   - **Culoarea gri** pe poziție indică lipsa profitului/pierderii pentru o anumită poziție.
   - **Punctul albastru** pe poziție indică un ordin activ pentru o anumită poziție. Apăsarea lungă pe poziție permite o trecere rapidă la un anumit ordin.
