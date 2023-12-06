@@ -36,5 +36,5 @@ Afișează statisticile contului, așa cum sunt prezentate mai jos:
   
 **Totale:**
   Oferă informații detaliate despre conturi specifice de la început.
-  Vă rugăm să rețineți că aceste informații se bazează pe istoricul net disponibil pentru cont (implicit 5 ani).
+  Vă rugăm să rețineți că aceste informații se bazează pe istoricul net disponibil pentru cont (implicit 1 ani).
  
