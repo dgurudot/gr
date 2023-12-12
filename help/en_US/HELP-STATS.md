@@ -38,6 +38,8 @@ Displays account stats as given below:
 **Totals:**
   Provides detailed information on specific accounts since the beginning.
   Kindly note that this information is based on the net history available for the account (1 years default).
-  Withdraw pending is Profit - Amount Withdrawn so far.
+  
+**Note:**
+Profit - Withdrawal also includes (Deposit - Investment). You can manually update investment amount from targets.
   
 
