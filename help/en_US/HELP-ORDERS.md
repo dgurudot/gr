@@ -6,7 +6,11 @@ Displays account orders as given below:
 
 **Completed:** Orders that were executed. Includes partially completed orders for multi-leg orders.
 
-**Canceled:** Orders that were canceled or rejected or error.
+**Canceled:** Orders that were canceled or rejected or error. Hover over date provides reason (if any).
 
-**Note**: A left swipe on a specific active order allows you to cancel a specific order 
-A right swipe on specific active order allows you to create a similar order or modify order.
+**Note**: 
+
+- A left swipe on a specific active order allows you to cancel a specific order 
+- A right swipe on specific active order allows you to create a similar order or modify order.
+- Hover over Buy/Sell provides order Id.
+- Hover over Quantity provides the order state details.
