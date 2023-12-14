@@ -1,10 +1,7 @@
-# **Instrucțiuni pentru adăugarea contului Goldring**
-- **Pasul 1:** Adăugați numele de utilizator și parola contului Goldring existent. Adăugați TOTP (opțional) dacă este activată autentificarea cu doi factori.
-    - Trebuie să aveți un cont Goldring existent. Dacă nu aveți un cont Goldring, atunci faceți clic pe "Sign Up" în partea de jos a ecranului.
-    - Activați caseta de selectare "Demo" pentru contul demo/test.
-- **Pasul 2:** Faceți clic pe butonul "Sign In" pentru a vă autentifica și a vă conecta la contul Goldring existent pentru adăugare.
-    - Toate conturile legate pentru utilizator vor fi adăugate automat.
-    - Dați clic pe "Resetare Parolă" dacă ați uitat parola contului existent.
+# **Instrucțiuni pentru actualizarea parolei**
+- **Pasul 1:** Furnizați parola actuală a contului Goldring existent. Adăugați TOTP (opțional) dacă este activată autentificarea cu doi factori.
+    - Caseta de selectare „Demo” va afișa activat pentru contul demo/test/paper.
+- **Pasul 2:** Faceți clic pe butonul „Actualizare” pentru a vă autentifica și a vă conecta la contul Goldring existent pentru actualizare.
+    - Faceți clic pe „Resetare parolă?” dacă doriți să schimbați parola contului existent.
 
-
-- **Note:** Pentru orice ajutor la adăugarea contului goldring, faceți clic pe "?" din dreapta sus pentru asistență.
+- **Note:** Pentru orice ajutor pentru adăugarea contului Goldring, faceți clic pe „?” în dreapta sus pentru sprijin.
