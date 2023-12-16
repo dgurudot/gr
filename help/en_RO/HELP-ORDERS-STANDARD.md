@@ -14,6 +14,6 @@ Alternativ, puteți introduce manual prețul de cumpărare, vânzare sau oprire 
 Ordinele de cumpărare și vânzare pot fi limitate (LMT) sau ordine de piață (MKT) și pot fi selectate din meniul derulant.
 De asemenea, puteți selecta TIF din DAY, GTC.
 
-- **PIATA** - Selectați piața din selectați din meniul derulant PIAȚĂ.
+- **PIATA** - Selectați PIAȚA specifică din meniul drop-down.
 
 **Notă:** Apăsați „Enter/Done” pe cantitate pentru ca totalul comenzii să fie actualizat.
