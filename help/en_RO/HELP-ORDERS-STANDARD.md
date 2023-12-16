@@ -9,6 +9,11 @@ Alternativ, puteți introduce manual cantitatea în caseta de text qty. POS afi�
 - **SELL Price** - Afișează implicit prețul BID. Acesta este 10% profit în mod implicit sau se bazează pe setările pentru ordine.
 - **STOP Price** - Afișează prețul Stop în mod implicit, pe baza setărilor comenzilor.
 
-Alternativ, puteți tasta manual prețul de cumpărare, de vânzare sau stop într-o casetă de text specifică pentru preț.
+Alternativ, puteți introduce manual prețul de cumpărare, vânzare sau oprire într-o casetă de text pentru preț specific.
 
-Ordinele de cumpărare și de vânzare pot fi ordine la limită sau ordine de piață și pot fi selectate din lista derulantă. De asemenea, puteți selecta valabilitate DAY, GTC.
+Ordinele de cumpărare și vânzare pot fi limitate (LMT) sau ordine de piață (MKT) și pot fi selectate din meniul derulant.
+De asemenea, puteți selecta TIF din DAY, GTC.
+
+- **PIATA** - Selectați piața din selectați din meniul derulant PIAȚĂ.
+
+**Notă:** Apăsați „Enter/Done” pe cantitate pentru ca totalul comenzii să fie actualizat.

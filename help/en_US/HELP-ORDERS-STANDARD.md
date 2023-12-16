@@ -11,6 +11,9 @@ Alternatively, you can manually type the quantity in the qty text box. POS shows
 
 Alternatively, you can manually type the buy, sell, or stop price in a specific price text box.
 
-Buy and Sell orders can be limit or market orders and they can be selected from the dropdown. You can also select TIF from DAY, GTC.
+Buy and Sell orders can be limit (LMT) or market orders (MKT) and they can be selected from the dropdown. 
+You can also select TIF from DAY, GTC.
 
-**Note:** Press "Enter" on quantity for order total to be updated.
+- **MARKET** - Select the market from select from the MARKET drop down.
+
+**Note:** Press "Enter/Done" on quantity for order total to be updated.
