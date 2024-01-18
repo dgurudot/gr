@@ -2,7 +2,8 @@
 
 - Click on **Add Account** button to add new account
 - **Select any account tile** to change its settings. Click on the Settings button from the title to update the following settings:
-  - **Remove** : Remove a specific account
+  - **Remove**: Remove a specific account
+  - **Reports**: Export Positions, Transactions, P/L in CSV format or Insights, Performance and Stats in PDF format.
   - **Reset Pin**: Reset select account pin.
   - **Set Default Account**: Sets specific trade account as default for orders, positions, and dashboard. You can also select and long press on account tile to set as default. **One account MUST be set as default.**
   - **Set Name**: Allows to set a name for an account. Max length: 6

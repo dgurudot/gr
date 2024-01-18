@@ -2,7 +2,8 @@
 
 - Faceți clic pe butonul **Adaugă Cont** pentru a adăuga un cont nou.
 - **Selectați orice cont** pentru a modifica setările acestuia. Faceți clic pe butonul Setări din titlu pentru a actualiza următoarele setări:
-  - **Ștergeți** : Eliminați un anumit cont
+  - **Ștergeți**: Eliminați un anumit cont
+  - **Rapoarte**: Exportați poziții, Tranzacții, P/L în format CSV sau Performanțe, Performanță și Statistici în format PDF.
   - **Resetare PIN**: Resetați codul PIN al contului selectat.
   - **Setează Contul Implicit**: Stabilește contul de tranzacționare specific ca fiind implicit pentru ordine, poziții și tabloul de bord. De asemenea, puteți apăsa lung pe tigla cont pentru a seta ca implicit. **Un singur cont TREBUIE să fie setat ca implicit.**
   - **Setează denumire**: Permite setarea unui nume pentru un cont. Lungime maximă: 6
