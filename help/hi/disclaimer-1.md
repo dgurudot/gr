@@ -1,6 +1,8 @@
-## Goldring SA expressly disclaims any and all liability
+## आप सहमत हैं कि आप प्रतिभूति पेशेवर नहीं हैं
 
-- Given the wide variety of sources from which the data content of the Trading Platform (the "Application") is obtained and the inherent dangers of electronic distribution, the information is provided to users "AS IS" without warranties of any kind, and Goldring makes no representations as to the adequacy, completeness or accuracy of the information contained in the Application, even if believed to be true to the best of our knowledge using reliable sources.
-- Goldring SA expressly disclaims any and all liability directly or for its employees and collaborators (whether for material, civil, criminal, contractual or other liability) arising out of the use of the Application or any part of the content of the Application. 
-- Users are advised to seek professional advice, as appropriate, in evaluating any specific headline, index, report, opinion, advice or other content.
-- Users may not copy, store, transmit, transfer, perform, broadcast, publish, reproduce, create a derivative application, display, distribute, sell, license, rent, lease or otherwise transfer the Application or data contained therein to any third party (including, without limitation, other persons in their company or organization) without Goldring's prior written permission.
+यदि निम्न में से कोई भी आप पर लागू होता है, तो आप प्रतिभूति पेशेवर हैं:
+- प्रतिभूति और विनिमय आयोग ("एसईसी"), कमोडिटीज फ्यूचर्स ट्रेडिंग कमीशन, किसी राज्य प्रतिभूति एजेंसी, किसी प्रतिभूति विनिमय या एसोसिएशन, या किसी कमोडिटी या वायदा अनुबंध बाजार या एसोसिएशन के साथ पंजीकृत या योग्य; और/या
+- "निवेश सलाहकार" के रूप में कार्यरत, जैसा कि उस शब्द को 1940 के निवेश सलाहकार अधिनियम की धारा 202 (ए) (11) में परिभाषित किया गया है (चाहे उस अधिनियम के तहत पंजीकृत या योग्य हो या नहीं); और/या
+- संघीय और/या राज्य प्रतिभूति कानूनों के तहत पंजीकरण से छूट प्राप्त किसी बैंक या अन्य संगठन द्वारा नियोजित, ऐसे कार्य करने के लिए जिसके लिए उसे ऐसे पंजीकृत या योग्य होने की आवश्यकता होगी यदि वह किसी ऐसे संगठन के लिए ऐसे कार्य करता है जो छूट प्राप्त नहीं है; और/या
+- अपने स्वयं के व्यक्तिगत निवेशों के बजाय किसी भी व्यापार या व्यावसायिक गतिविधि के संबंध में उद्धरण जानकारी का उपयोग करना
+- सीरीज 7 या सीरीज 63 लाइसेंस रखता है

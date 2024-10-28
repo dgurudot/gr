@@ -1,9 +1,15 @@
-# **Markets**
+# **बाजार**
 
-Get overall market information for stocks, crypto
-- **Stock Heatmap:** Show heatmap for active stocks based on market cap for each sector. Daily timeframe.
-- **Stocks:** Stock quotes for top financial, technology, and services sector
-- **Stocks Screener:** Stock screener with the ability to filter
-- **Financial Markets:** Index, Futures, Bonds, Forex info
-- **Indices:** World indices including US/Canada, Europe, Asia/Pacific
-- **Economic Calendar:** Time, Actual, Forecast, and prior economic calendar
+स्टॉक, क्रिप्टो के लिए समग्र बाजार जानकारी प्राप्त करें
+- **स्टॉक:** शीर्ष वित्तीय, प्रौद्योगिकी और सेवा क्षेत्र के लिए स्टॉक उद्धरण
+- **क्रिप्टो:** अवलोकन, बिटकॉइन, एथेरियम, सोलाना और यूनिस्वैप मूल्य
+- **स्टॉक समाचार:** यूएस स्टॉक मार्केट के लिए शीर्ष दैनिक समाचार
+- **क्रिप्टो समाचार:** क्रिप्टो मुद्राओं के लिए शीर्ष दैनिक समाचार
+- **स्टॉक स्क्रीनर:** फ़िल्टर करने की क्षमता के साथ स्टॉक स्क्रीनर
+- **क्रिप्टो स्क्रीनर:** फ़िल्टर करने की क्षमता के साथ क्रिप्टप स्क्रीनर
+- **वित्तीय बाजार:** सूचकांक, वायदा, बांड, विदेशी मुद्रा जानकारी
+- **क्रिप्टो बाजार:** क्रिप्टो मुद्रा बाजार
+- **सूचकांक:** यूएस/कनाडा, यूरोप, एशिया/प्रशांत सहित विश्व सूचकांक
+- **विदेशी मुद्रा:** प्रमुख, मामूली और विदेशी विदेशी मुद्रा दरें
+- **आज के स्टॉक:** सक्रिय, लाभ और हानि आज
+- **आर्थिक कैलेंडर:** समय, वास्तविक, पूर्वानुमान और पूर्व आर्थिक कैलेंडर

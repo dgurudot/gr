@@ -1,7 +1,16 @@
-# **Watchlists**
+# **वॉचलिस्ट**
 
-- Allows you to view a default watchlist
-- If you have specific broker account selected as default, then you will see broker account watch lists.
-- Click on edit button to view and add/change order of symbols in specific watchlist.
+वर्तमान वॉचलिस्ट को **ग्रिड मोड (डिफ़ॉल्ट)** या **टेबल मोड** में प्रदर्शित करता है।
 
+आप स्क्रीन के नीचे दाईं ओर नीले बटन का उपयोग करके मोड बदल सकते हैं और सक्षम/अक्षम कर सकते हैं।
+
+विशिष्ट हेडर को पुनः क्रमित करने और सक्षम/अक्षम करने के लिए ऊपर बाईं ओर से सेटिंग पर क्लिक करें।
+
+**नोट:** एक उपयोगकर्ता के पास कई वॉचलिस्ट हो सकती हैं।
+
+**विकल्प:**
+
+- **संपादन आइकन:** यह मौजूदा वॉचलिस्ट को संपादित करेगा।
+
+- **जोड़ें आइकन:** यह एक नई वॉचलिस्ट बनाएगा।
 

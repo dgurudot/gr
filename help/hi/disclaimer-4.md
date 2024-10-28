@@ -1,8 +1,13 @@
-## You accept that Goldring SA doesn't have any liability from your stock trading losses
+## आप स्वीकार करते हैं कि TradeGrub LLC आपके स्टॉक ट्रेडिंग घाटे के लिए उत्तरदायी नहीं है
 
-- The use and management of passwords within the application are the sole responsibility of the user. 
-- Providing or sharing passwords with others is done at the user's own risk and any resulting consequences will be at the user's expense. 
-- The user of the application is also responsible for establishing, maintaining and properly storing passwords used to access the application in a safe and secure manner according to their own preferences. 
-- The entry of personal data, bank account information or login data into the application via links not directly provided by Goldring SA is done at the user's own risk. 
-- Any such action does not imply any liability on the part of Goldring SA for any loss or damage suffered by the user. 
-- It is essential that the user pays particular attention to the validity of the sources and authenticity of the links to avoid any possible exposure to security risks or financial losses.
+- TradeGrub LLC, इसके अधिकारी, निदेशक और निवेशक, हमारी सामग्री का उपयोग करने से प्राप्त होने वाले किसी भी परिणाम के बारे में कोई गारंटी या अन्य वादा नहीं करते हैं। किसी को भी अपने वित्तीय सलाहकार से परामर्श किए बिना और अपना स्वयं का शोध और उचित परिश्रम किए बिना कोई निवेश निर्णय नहीं लेना चाहिए।
+- कानून द्वारा अनुमत अधिकतम सीमा तक, TradeGrub LLC, इसके अधिकारी, निदेशक, निवेशक और ठेकेदार किसी भी जानकारी, टिप्पणी, विश्लेषण, राय, सलाह और/या सिफारिशों के गलत, अधूरे या अविश्वसनीय साबित होने या किसी भी निवेश या अन्य नुकसान के परिणामस्वरूप होने की स्थिति में किसी भी और सभी देयताओं से इनकार करते हैं।
+- TradeGrub LLC या इसके कोई भी निदेशक, अधिकारी, निवेशक, सलाहकार या कोई भी सहयोगी किसी भी जानकारी की पर्याप्तता, सटीकता या पूर्णता, किसी विशेष निवेश की उपयुक्तता या लाभप्रदता या किसी निवेश या सूचनात्मक स्रोत के संभावित मूल्य का आकलन, सत्यापन या गारंटी नहीं दे सकते हैं।
+- उपयोगकर्ता अपने निवेश अनुसंधान और निर्णयों के लिए स्वयं जिम्मेदार है, किसी भी निवेश करने से पहले किसी योग्य प्रतिभूति पेशेवर की सलाह लेनी चाहिए, और निवेश करने से पहले किसी भी और सभी जोखिमों की जांच करनी चाहिए और उन्हें पूरी तरह से समझना चाहिए।
+
+- TradeGrub LLC या इसके किसी भी निदेशक, अधिकारी, निवेशक, सलाहकार या किसी भी सहयोगी किसी भी तरह से संचार या वेबसाइटों में उल्लिखित किसी भी प्रतिभूति की शोधन क्षमता, वित्तीय स्थिति या निवेश की सलाह की गारंटी नहीं देते हैं।
+
+- इसके अलावा, TradeGrub LLC या इसके किसी भी निदेशक, अधिकारी, निवेशक, सलाहकार या किसी भी सहयोगी इस जानकारी के किसी भी उपयोग से उत्पन्न होने वाले किसी भी प्रत्यक्ष या परिणामी नुकसान के लिए कोई दायित्व स्वीकार नहीं करते हैं। इस जानकारी का उपयोग किसी भी निवेश निर्णय के एकमात्र आधार के रूप में नहीं किया जाना चाहिए, न ही इसे किसी विशेष निवेशक की निवेश आवश्यकताओं को पूरा करने के लिए डिज़ाइन की गई सलाह के रूप में समझा जाना चाहिए। पिछला प्रदर्शन जरूरी नहीं कि भविष्य के रिटर्न का संकेत हो।
+
+TradeGrub प्लेटफ़ॉर्म का उपयोग करके, आप अस्वीकरण से सहमत होते हैं और होने वाले किसी भी नुकसान के लिए सभी देयताओं को छोड़ देते हैं।
+
