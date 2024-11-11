@@ -1,8 +1,6 @@
-## You agree that you are NOT a securities professional
+## Goldring SA expressly disclaims any and all liability
 
-You're a securities professional if any of the following apply to you:
-- Registered or qualified with the Securities and Exchange Commission (the "SEC"), the Commodities Futures Trading Commission, any state securities agency, any securities exchange or association, or any commodities or futures contract market or association; AND/OR
-- Engaged as an "investment advisor" as that term is defined in Section 202 (a) (11) of the Investment Advisor's Act of 1940 (whether or not registered or qualified under that Act); AND/OR
-- Employed by a bank or other organization exempt from registration under Federal and/or state securities laws to perform functions that would require him or her to be so registered or qualified if he or she were to perform such functions for an organization not so exempt; AND/OR
-- Using quote information in connection with any trade or business activity instead of your own personal investments
-- Holds Series 7 or Series 63 license
+- Given the wide variety of sources from which the data content of the Trading Platform (the "Application") is obtained and the inherent dangers of electronic distribution, the information is provided to users "AS IS" without warranties of any kind, and Goldring makes no representations as to the adequacy, completeness or accuracy of the information contained in the Application, even if believed to be true to the best of our knowledge using reliable sources.
+- Goldring SA expressly disclaims any and all liability directly or for its employees and collaborators (whether for material, civil, criminal, contractual or other liability) arising out of the use of the Application or any part of the content of the Application. 
+- Users are advised to seek professional advice, as appropriate, in evaluating any specific headline, index, report, opinion, advice or other content.
+- Users may not copy, store, transmit, transfer, perform, broadcast, publish, reproduce, create a derivative application, display, distribute, sell, license, rent, lease or otherwise transfer the Application or data contained therein to any third party (including, without limitation, other persons in their company or organization) without Goldring's prior written permission.
